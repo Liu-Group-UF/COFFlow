@@ -15,21 +15,13 @@ The workflow is particularly useful for:
 
 # Method Overview
 
-<!-- ========================================================= -->
-<!-- Insert methodology figure here                            -->
-<!-- ========================================================= -->
-
-<!-- Example:
-
 <p align="center">
-  <img src="figures/method_overview.pdf" width="900">
+  <img src="figures/deconstruction.png" width="900">
 </p>
 
 <p align="center">
   <b>Figure 1.</b> Schematic illustration of the COF decomposition workflow.
 </p>
-
--->
 
 The overall decomposition workflow proceeds as follows:
 
@@ -418,12 +410,4 @@ If you use this code in your work, please cite:
 
 ```text
 [Add citation here]
-```
-
----
-
-# License
-
-```text
-[Add license here, e.g., MIT License]
 ```
