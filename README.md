@@ -1,7 +1,7 @@
 # COFFlow
 
 <p align="center">
-  <img src="figures/COFFlow_logo.png" width="500">
+  <img src="figures/COFFlow_logo.png" width="350">
 </p>
 
 # COF Building Block Decomposition
