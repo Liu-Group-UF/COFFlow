@@ -1,3 +1,9 @@
+# COFFlow
+
+<p align="center">
+  <img src="figures/COFFlow_logo.png" width="500">
+</p>
+
 # COF Building Block Decomposition
 
 This repository provides a Python workflow for decomposing CIF files of covalent organic frameworks (COFs) into constituent molecular building blocks.
