@@ -412,8 +412,6 @@ Potential future extensions include:
 
 # Citation
 
-If you use this code in your work, please cite:
-
 ```text
 [Add citation here]
 ```
