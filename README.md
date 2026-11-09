@@ -410,8 +410,15 @@ Potential future extensions include:
 
 ---
 
+
 # Citation
 
+If you use COFFlow in your research, please cite our paper:
+
 ```text
-[Add citation here]
+Pan, Y.; Yan, Y.; Zeng, C.; Jin, J.; Liu, M.
+COFFlow: Building-Block-Based Generative Modeling for Two-Dimensional Covalent Organic Framework Discovery.
+Chem. Mater. 2026, 38 (19), 10036–10049.
+https://doi.org/10.1021/acs.chemmater.6c01524
 ```
+
